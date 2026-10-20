@@ -1,0 +1,25 @@
+field,value,unit
+market_excess_formula,"(Mkt-RF)_FF + RF_FF - rf_dataset",formula
+max_abs_ff_rf_minus_dataset_rf_decimal,"0",decimal_return
+n_oos_months,"408",months
+oos_start_month,"1990-01-31",date
+oos_end_month,"2023-12-31",date
+regression_frequency,"monthly",text
+model,"single-factor market model with intercept",text
+hac_kernel,"Bartlett",text
+hac_lag_rule,"floor(4*(T/100)^(2/9))",formula
+hac_lags_full_period,"5",months
+hac_lags_half_period,"4",months
+hac_small_sample_correction,"false",logical
+hac_prewhitening_order,"0",lags
+confidence_level,"0.95",probability
+alpha_annualization,"12 * monthly alpha",text
+capm_residual_volatility_annualization,"sqrt(12) * monthly CAPM residual standard deviation",text
+variance_normalization,"sample variance, denominator T-1",text
+variance_basis,"portfolio excess returns",text
+q_definition,"((beta_A^2-beta_B^2)*var(m))/(var(A)-var(B))",formula
+q_materiality_threshold_decimal,"0.1",decimal_fraction
+rf_dataset_source,"research.evaluation.performance.rf",text
+factor_source,"Kenneth French Data Library",text
+factor_dataset,"F-F Research Data Factors",text
+factor_creation_line,"This file was created using the 202608 CRSP database.",text

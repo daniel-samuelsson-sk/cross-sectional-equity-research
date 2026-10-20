@@ -1,0 +1,21 @@
+# Restricted source data
+data/
+*.mat
+
+# Locally generated tables
+results/tables/
+
+# MATLAB temporary files
+*.asv
+*.autosave
+slprj/
+codegen/
+
+# Local archives and logs
+*.zip
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

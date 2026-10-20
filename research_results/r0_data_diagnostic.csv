@@ -1,0 +1,4 @@
+record_type,alignment,n_observations,median_abs_discrepancy_decimal,pearson_correlation,documented_supported,total_stock_months,available_return,available_no_return,unavailable_return,unavailable_no_return,mismatch_count
+timing,documented,562155,4.927537446963726e-07,0.9428887738079703,true,NaN,NaN,NaN,NaN,NaN,NaN
+timing,forward_control,562151,0.08901414194189476,0.014741635540240678,not_applicable,NaN,NaN,NaN,NaN,NaN,NaN
+availability,not_applicable,NaN,NaN,NaN,not_applicable,1056000,564286,0,0,491714,0

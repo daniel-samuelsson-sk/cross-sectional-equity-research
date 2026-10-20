@@ -1,0 +1,2 @@
+n_local_specifications,reported_momentum_cutoff,reported_downside_cutoff,reported_skew_cutoff,reported_calibration_sharpe,reported_calibration_rank,reported_oos_sharpe,reported_oos_rank,oos_sharpe_min,oos_sharpe_max,calibration_oos_spearman_rho
+16,70,40,90,0.8665098540076746,2,0.9660080438358453,11,0.9274813824752416,0.9941915886656985,0.16176470588235298

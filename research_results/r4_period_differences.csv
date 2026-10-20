@@ -1,0 +1,7 @@
+period,comparison,metric,difference,unit
+1990-2006,FINAL - value-weighted panel benchmark,sharpe,0.7593950820357084,dimensionless
+1990-2006,FINAL - value-weighted panel benchmark,cagr,0.0967575864429493,decimal
+1990-2006,MOM+DD - MOM,annualized_volatility,-0.06503674341978868,decimal
+2007-2023,FINAL - value-weighted panel benchmark,sharpe,0.02532827574642893,dimensionless
+2007-2023,FINAL - value-weighted panel benchmark,cagr,-0.00016483368444508706,decimal
+2007-2023,MOM+DD - MOM,annualized_volatility,-0.04076261591620456,decimal
